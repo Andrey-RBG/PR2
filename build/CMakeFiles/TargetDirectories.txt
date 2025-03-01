@@ -1,0 +1,3 @@
+/home/andrey/Pr2/build/CMakeFiles/PR2.dir
+/home/andrey/Pr2/build/CMakeFiles/edit_cache.dir
+/home/andrey/Pr2/build/CMakeFiles/rebuild_cache.dir
