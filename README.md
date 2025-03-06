@@ -14,8 +14,8 @@
 
 1. **Клонировать репозиторий и перейти в корневой каталог:**
    ```bash
-   git clone https://github.com/10cked/Pr2_sysprog.git
-   cd my_console_tool
+   git clone https://github.com/Andrey-RBG/PR2.git
+   cd PR2
    ```
 2. **Создать и перейти в директорию сборки:**
    ```bash
@@ -29,13 +29,13 @@
    ```
 4. **Запустить утилиту:**
    ```bash
-   ./my_console_tool -h
+   ./PR2 -h
    ```
    Пример использования:
    ```bash
-   ./my_console_tool --users
-   ./my_console_tool --processes
-   ./my_console_tool --help
-   ./my_console_tool --log out.txt --users
-   ./my_console_tool --errors err.txt --processes
+   ./PR2 -u
+   ./PR2 -p
+   ./PR2 -h
+   ./PR2 -l out.txt -u
+   ./PR2 -e errors.txt -p
    ```
